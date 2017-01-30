@@ -1,21 +1,13 @@
 {
-  "name": "test_merge_branch",
+  "name": "webpack",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "Learning webpack",
   "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Teleskopelna/TestMergeBranch.git"
-  },
-  "author": "",
+  "author": "fromery",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Teleskopelna/TestMergeBranch/issues"
-  },
-  "homepage": "https://github.com/Teleskopelna/TestMergeBranch#readme",
   "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
