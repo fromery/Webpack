@@ -1,2 +1,2 @@
 # webpack
-webpack2
+Learning Webpack
